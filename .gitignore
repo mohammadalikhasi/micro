@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.atsuo
+*.atsln
+*.eep
+*.srec
+*.lss
+*Makefile
+*.mk
+*.xml
+*.cproj
